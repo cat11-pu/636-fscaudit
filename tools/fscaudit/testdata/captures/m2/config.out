@@ -1,0 +1,5 @@
+FSCAdmin console 11.6.0
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at com.teamcenter.fms.servercache.fscadmin.FSCAdmin.main(FSCAdmin.java:120)

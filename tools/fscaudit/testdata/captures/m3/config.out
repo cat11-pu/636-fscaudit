@@ -1,0 +1,16 @@
+FSCAdmin console 11.6.0
+Reading FMS configuration from fms-c.example:4544
+<?xml version="1.0" encoding="UTF-8"?>
+<fmsworld>
+  <fsc id="FMS01" address="http://fms-a.example:4544" version="11.6.0"/>
+  <fsc id="FMS02" address="http://fms-b.example:4544" version="11.6.0"/>
+  <fsc id="FSC01" address="http://fsc-01.example:4544" version="11.6.0"/>
+  <fsc id="FSC02" address="http://fsc-02.example:4544" version="11.6.0"/>
+  <fsc id="FSC03" address="http://fsc-03.example:4544" version="11.6.0"/>
+  <fsc id="FSC04" address="http://fsc-04.example:4544" version="11.6.0"/>
+  <fsc id="FSC05" address="http://fsc-05.example:4544" version="11.6.0"/>
+  <fsc id="FSC06" address="http://fsc-06.example:4544" version="11.6.0"/>
+  <fsc id="FSC07" address="http://fsc-07.example:4544" version="11.6.0"/>
+  <fsc id="FSC08" address="http://fsc-08.example:4544" version="11.6.0"/>
+</fmsworld>
+Configuration dump completed

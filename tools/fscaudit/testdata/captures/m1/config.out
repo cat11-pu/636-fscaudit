@@ -1,0 +1,7 @@
+FSCAdmin console 11.6.0
+FSCAdmin: reading FMS master list
+FSCAdmin: connecting to http://fms-a.example:4544
+java.net.UnknownHostException: fms-a.example
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1402)
+	at com.teamcenter.fms.servercache.fscadmin.FSCAdmin.main(FSCAdmin.java:112)
